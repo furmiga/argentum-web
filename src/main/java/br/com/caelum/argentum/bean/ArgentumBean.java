@@ -28,7 +28,7 @@ public class ArgentumBean implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 	private List<Negociacao> negociacoes;
-	private ChartModel modeloGrafico;
+	private ChartModel_ modeloGrafico;
 	private String nomeMedia;
 	private String nomeIndicadorBase;
 
